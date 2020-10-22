@@ -1,0 +1,25 @@
+{
+  "name": "confcall",
+  "version": "1.0.0",
+  "description": "video call web application",
+  "main": "server.js",
+  "scripts": {
+    "test": "\"echo\\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhDAndo/confcall.git"
+  },
+  "keywords": [
+    "video",
+    "call",
+    "nodejs",
+    "js"
+  ],
+  "author": "Ando Rakotomanana (PhDAndo)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PhDAndo/confcall/issues"
+  },
+  "homepage": "https://github.com/PhDAndo/confcall#readme"
+}
